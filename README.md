@@ -15,7 +15,6 @@
 ..* usage.md - update this file with corresponding usage.
 
 #### Usage
-# Usage
 ##### Make sure you have installed the requirements.txt via pip or easy_install on your path with Python version 3.6+
 
 * Adhoc commands can be used like-
